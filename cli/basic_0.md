@@ -1,3 +1,17 @@
+# Best Practices:
+- "git pull && git push": This is like regularly saving your work. You do this before you start working and when you finish for the day. It helps avoid mixing up changes made by you and others.
+- Merge Main Branch: Think of it like updating your work with the latest changes from others. You do this once a day to stay updated.
+- Small Changes Often: It's like breaking big tasks into smaller ones. It's easier to manage and fix problems this way.
+- Don't Erase History: Imagine if you could see all the changes made to a document. "Force push" and "rebase" are like erasing parts of that history. It's not good for teamwork and wastes time.
+- Feature Flagging: It's like hiding some parts of your code until it's ready. This helps with testing and making sure everything works before showing it to everyone.
+
+# Code Best Practices:
+- Python Code: Always test your code and write it in a clean, clear way. Python is picky about syntax, so testing is super important.
+- Canonical Python Code: This means writing code in a way that's easy to understand and follow. Use shortcuts when they make sense.
+- Async Programming: It's like doing multiple things at once. This makes your code faster by not waiting around for one thing to finish before moving on to the next.
+- Avoid Threading: Threading is like trying to do multiple things at once in Python, but it's not very efficient. It's better to use other methods if you need to do this.
+
+
 # Login / Servers
 
 login:
