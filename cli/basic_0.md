@@ -1,3 +1,14 @@
+# Login / Servers
+
+login:
+```bash
+gcloud auth application-default login
+```
+server:
+```bash
+uvicorn app.main:app
+```
+
 # Git
 
 ## Set current branch to the state of origin/main
